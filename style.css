@@ -37,14 +37,14 @@ section{
     color: hsl(179, 62%, 43%);
     font-weight: 700;
     font-size: 1.7rem;
-    margin-bottom: 15px;
+    margin-bottom: 18px;
 }
 
-.item-1 h3{
+.item-1 h2{
     color: hsl(71, 73%, 54%);
     margin-bottom: 15px;
     font-weight: 700;
-    font-size: 1rem;
+    font-size: 1.3rem;
 }
 .item-1 p{
 color:hsl(218, 22%, 67%);
