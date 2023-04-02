@@ -33,10 +33,10 @@ section{
 .item-1{
     background-color: white;
 }
-.item-1 h2{
+.item-1 h1{
     color: hsl(179, 62%, 43%);
     font-weight: 700;
-    font-size: 1.3rem;
+    font-size: 1.7rem;
     margin-bottom: 15px;
 }
 
